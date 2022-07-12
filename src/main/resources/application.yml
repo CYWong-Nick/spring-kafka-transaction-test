@@ -1,0 +1,5 @@
+#logging:
+#  level:
+#    org.apache: warn
+#    kafka: warn
+#    state.change.logger: warn
