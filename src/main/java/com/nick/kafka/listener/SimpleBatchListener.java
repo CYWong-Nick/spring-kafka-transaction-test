@@ -1,4 +1,4 @@
-package com.nick.kafka;
+package com.nick.kafka.listener;
 
 import com.nick.kafka.exception.DeadLetterException;
 import com.nick.kafka.exception.RetryException;

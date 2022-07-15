@@ -1,5 +1,6 @@
 package com.nick.kafka;
 
+import com.nick.kafka.listener.SimpleBatchListener;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
 import org.apache.kafka.common.serialization.StringSerializer;
